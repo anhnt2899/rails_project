@@ -1,0 +1,2 @@
+class Domrmitory < ApplicationRecord
+end
